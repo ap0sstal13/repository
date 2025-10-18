@@ -1,1 +1,37 @@
-# repository
+# repository[index.html](https://github.com/user-attachments/files/22984934/index.html)
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>My portfolio</title>
+    </head>
+    <body>
+<h1>My name Sergey Korehov</h1>
+<p>I'm Junior Frontend Developer</p>
+    <p>Street: Skolkovskoe highway </p>
+    <p>City: Moscow</p>
+    <p>Number: (909) 1**-8**6</p>
+    <p>Mail: t**********clauz@rambler.ru</p>
+    <h2>Skills</h2>
+    <p>HTML, CSS, JavaScript, Responsive Web Design, Technical Writing</p>
+    <h3>Education</h3>
+    <p>School№384, Belovejskay Street - middle degree</p>
+    <p>September 2008 to May 2019</p>
+    <p>My favorite school subjects:computer science, math, physical education, physics </p>
+    <h3>Experience</h3>
+    <p>ООО "БК на Русаковской", Rusakovskaya Street</p>
+    <p>November 2022 to Month 20xx</p>
+    <ul>
+        <li>use AD</li>
+        <li>Switch management and configuration</li>
+        <li>Configuring IP addresses for telephony</li>
+        <li>Full understanding of printer operation and their administration</li>
+        <li>small experience in 1C</li>
+        <li>Working with cash register equipment (KKT)</li>
+    </ul>
+    <p>list of skills used or gained at this company</p>
+    <h4>Across the internet</h4>
+    <p>
+        <a href="https://github.com/ap0sstal13">GitHub</a>
+    </p>
+    </body>
+</html>
